@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jIm3e8UPEi36KlZmlw9KNUplGvQ1vUQwNlMUXTUwHVwMFfUpBhx9/mgvL0lAnKz6m24twcqdLhR8jigCWcw0tA==",
+  "dgSpecHash": "gB6DcyAzvXQkwT4YF3nyG2rpEQB5m3egxr9OYU0ohw63ymOir+VKrWEQkM2256D/tSQ/2QumAzBdm9LQsMudKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tomo\\Desktop\\FullstackWebApplication\\Server\\PlantShop.Services\\PlantShop.Services.csproj",
+  "projectFilePath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Services\\PlantShop.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

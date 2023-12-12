@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tomo\\Desktop\\FullstackWebApplication\\Server\\PlantShop.DTOs\\PlantShop.DTOs.csproj": {}
+    "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DTOs\\PlantShop.DTOs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomo\\Desktop\\FullstackWebApplication\\Server\\PlantShop.DTOs\\PlantShop.DTOs.csproj": {
+    "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DTOs\\PlantShop.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\FullstackWebApplication\\Server\\PlantShop.DTOs\\PlantShop.DTOs.csproj",
+        "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DTOs\\PlantShop.DTOs.csproj",
         "projectName": "PlantShop.DTOs",
-        "projectPath": "C:\\Users\\Tomo\\Desktop\\FullstackWebApplication\\Server\\PlantShop.DTOs\\PlantShop.DTOs.csproj",
+        "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DTOs\\PlantShop.DTOs.csproj",
         "packagesPath": "C:\\Users\\Tomo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomo\\Desktop\\FullstackWebApplication\\Server\\PlantShop.DTOs\\obj\\",
+        "outputPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tomo\\AppData\\Roaming\\NuGet\\NuGet.Config",

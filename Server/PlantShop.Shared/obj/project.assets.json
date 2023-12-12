@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\FullstackWebApplication\\Server\\PlantShop.Shared\\PlantShop.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Shared\\PlantShop.Shared.csproj",
       "projectName": "PlantShop.Shared",
-      "projectPath": "C:\\Users\\Tomo\\Desktop\\FullstackWebApplication\\Server\\PlantShop.Shared\\PlantShop.Shared.csproj",
+      "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Shared\\PlantShop.Shared.csproj",
       "packagesPath": "C:\\Users\\Tomo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomo\\Desktop\\FullstackWebApplication\\Server\\PlantShop.Shared\\obj\\",
+      "outputPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tomo\\AppData\\Roaming\\NuGet\\NuGet.Config",

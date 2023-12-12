@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\FullstackWebApplication\\Server\\PlantShop.Mappers\\PlantShop.Mappers.csproj",
+      "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Mappers\\PlantShop.Mappers.csproj",
       "projectName": "PlantShop.Mappers",
-      "projectPath": "C:\\Users\\Tomo\\Desktop\\FullstackWebApplication\\Server\\PlantShop.Mappers\\PlantShop.Mappers.csproj",
+      "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Mappers\\PlantShop.Mappers.csproj",
       "packagesPath": "C:\\Users\\Tomo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomo\\Desktop\\FullstackWebApplication\\Server\\PlantShop.Mappers\\obj\\",
+      "outputPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Mappers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tomo\\AppData\\Roaming\\NuGet\\NuGet.Config",

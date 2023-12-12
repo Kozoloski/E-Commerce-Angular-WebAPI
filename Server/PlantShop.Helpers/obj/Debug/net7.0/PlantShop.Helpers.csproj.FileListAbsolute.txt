@@ -1,0 +1,14 @@
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\bin\Debug\net7.0\PlantShop.Helpers.deps.json
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\bin\Debug\net7.0\PlantShop.Helpers.runtimeconfig.json
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\bin\Debug\net7.0\PlantShop.Helpers.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\bin\Debug\net7.0\PlantShop.Helpers.pdb
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\obj\Debug\net7.0\PlantShop.Helpers.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\obj\Debug\net7.0\PlantShop.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\obj\Debug\net7.0\PlantShop.Helpers.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\obj\Debug\net7.0\PlantShop.Helpers.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\obj\Debug\net7.0\PlantShop.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\obj\Debug\net7.0\PlantShop.Helpers.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\obj\Debug\net7.0\refint\PlantShop.Helpers.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\obj\Debug\net7.0\PlantShop.Helpers.pdb
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\obj\Debug\net7.0\PlantShop.Helpers.genruntimeconfig.cache
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Helpers\obj\Debug\net7.0\ref\PlantShop.Helpers.dll

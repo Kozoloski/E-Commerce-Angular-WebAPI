@@ -1,0 +1,12 @@
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\bin\Debug\net7.0\PlantShop.Services.deps.json
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\bin\Debug\net7.0\PlantShop.Services.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\bin\Debug\net7.0\PlantShop.Services.pdb
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\obj\Debug\net7.0\PlantShop.Services.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\obj\Debug\net7.0\PlantShop.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\obj\Debug\net7.0\PlantShop.Services.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\obj\Debug\net7.0\PlantShop.Services.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\obj\Debug\net7.0\PlantShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\obj\Debug\net7.0\PlantShop.Services.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\obj\Debug\net7.0\refint\PlantShop.Services.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\obj\Debug\net7.0\PlantShop.Services.pdb
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\obj\Debug\net7.0\ref\PlantShop.Services.dll

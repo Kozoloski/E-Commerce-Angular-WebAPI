@@ -1,0 +1,17 @@
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\bin\Debug\net7.0\PlantShop.DataAccess.deps.json
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\bin\Debug\net7.0\PlantShop.DataAccess.runtimeconfig.json
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\bin\Debug\net7.0\PlantShop.DataAccess.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\bin\Debug\net7.0\PlantShop.DataAccess.pdb
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\bin\Debug\net7.0\PlantShop.Domain.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\bin\Debug\net7.0\PlantShop.Domain.pdb
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\obj\Debug\net7.0\PlantShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\obj\Debug\net7.0\PlantShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\obj\Debug\net7.0\PlantShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\obj\Debug\net7.0\PlantShop.DataAccess.AssemblyInfo.cs
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\obj\Debug\net7.0\PlantShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\obj\Debug\net7.0\PlantShop.DataAccess.csproj.CopyComplete
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\obj\Debug\net7.0\PlantShop.DataAccess.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\obj\Debug\net7.0\refint\PlantShop.DataAccess.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\obj\Debug\net7.0\PlantShop.DataAccess.pdb
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\obj\Debug\net7.0\PlantShop.DataAccess.genruntimeconfig.cache
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DataAccess\obj\Debug\net7.0\ref\PlantShop.DataAccess.dll
