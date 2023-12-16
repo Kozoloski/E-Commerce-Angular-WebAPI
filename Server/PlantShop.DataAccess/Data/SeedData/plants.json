@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Snake Plant",
+    "Description": "Known for its easy care, the Snake Plant adds a touch of elegance with its upright leaves. Perfect for beginners.",
+    "Price": 200,
+    "PictureUrl": "images/image1.png",
+    "PlantTypeId": 1,
+    "PlantCategoryId": 1
+  },
+  {
+    "Name": "Peace Lily",
+    "Description": "The Peace Lily features lush green leaves and elegant white blooms, bringing a sense of calm to any space.",
+    "Price": 150,
+    "PictureUrl": "images/image2.png",
+    "PlantTypeId": 1,
+    "PlantCategoryId": 1
+  },
+  {
+    "Name": "Spider Plant",
+    "Description": "Air-purifying and resilient, the Spider Plant is perfect for hanging baskets. Great for improving indoor air quality.",
+    "Price": 180,
+    "PictureUrl": "images/image3.png",
+    "PlantTypeId": 1,
+    "PlantCategoryId": 2
+  },
+  {
+    "Name": "Fiddle Leaf Fig",
+    "Description": "A statement plant with large, glossy leaves, the Fiddle Leaf Fig adds a touch of sophistication to any room.",
+    "Price": 300,
+    "PictureUrl": "images/image4.png",
+    "PlantTypeId": 1,
+    "PlantCategoryId": 2
+  },
+  {
+    "Name": "Monstera Deliciosa",
+    "Description": "Known for its unique split leaves, the Monstera Deliciosa is a trendy choice that thrives in bright, indirect light.",
+    "Price": 250,
+    "PictureUrl": "images/image5.png",
+    "PlantTypeId": 1,
+    "PlantCategoryId": 4
+  },
+  {
+    "Name": "ZZ Plant",
+    "Description": "The ZZ Plant is a low-maintenance beauty, thriving in low light conditions. Perfect for busy plant lovers.",
+    "Price": 120,
+    "PictureUrl": "images/image6.png",
+    "PlantTypeId": 1,
+    "PlantCategoryId": 5
+  },
+  {
+    "Name": "Aloe Vera",
+    "Description": "A healing succulent, Aloe Vera not only adds a modern touch but also provides natural skin-soothing properties.",
+    "Price": 10,
+    "PictureUrl": "images/image7.png",
+    "PlantTypeId": 1,
+    "PlantCategoryId": 5
+  },
+  {
+    "Name": "Rubber Plant",
+    "Description": "With dark, glossy leaves, the Rubber Plant is an easy-care choice that adds a touch of drama to your space.",
+    "Price": 8,
+    "PictureUrl": "images/image8.png",
+    "PlantTypeId": 2,
+    "PlantCategoryId": 4
+  },
+  {
+    "Name": "Pothos",
+    "Description": "A versatile and trailing plant, Pothos is perfect for beginners, adding a lush green vibe to any room.",
+    "Price": 15,
+    "PictureUrl": "images/image9.png",
+    "PlantTypeId": 1,
+    "PlantCategoryId": 1
+  },
+  {
+    "Name": "Philodendron",
+    "Description": "Known for its heart-shaped leaves, the Philodendron is a classic choice, thriving in various lighting conditions.",
+    "Price": 18,
+    "PictureUrl": "images/image10.png",
+    "PlantTypeId": 1,
+    "PlantCategoryId": 1
+  },
+  {
+    "Name": "English Ivy",
+    "Description": "A charming climber, English Ivy adds a touch of elegance with its trailing vines, making it perfect for hanging baskets.",
+    "Price": 15,
+    "PictureUrl": "images/image11.png",
+    "PlantTypeId": 1,
+    "PlantCategoryId": 1
+  },
+  {
+    "Name": "Succulent Collection",
+    "Description": "A curated collection of unique succulents, perfect for adding a modern and trendy touch to your space.",
+    "Price": 16,
+    "PictureUrl": "images/image12.png",
+    "PlantTypeId": 1,
+    "PlantCategoryId": 1
+  },
+  {
+    "Name": "Parlor Palm",
+    "Description": "A compact and air-purifying choice, the Parlor Palm adds a tropical touch to any room with its feathery fronds.",
+    "Price": 14,
+    "PictureUrl": "images/image13.png",
+    "PlantTypeId": 4,
+    "PlantCategoryId": 4
+  },
+  {
+    "Name": "Bird of Paradise",
+    "Description": "With large, banana-shaped leaves, the Bird of Paradise is a bold and exotic choice that demands attention.",
+    "Price": 250,
+    "PictureUrl": "images/image14.png",
+    "PlantTypeId": 3,
+    "PlantCategoryId": 6
+  },
+  {
+    "Name": "African Violet",
+    "Description": "Known for its vibrant blooms, the African Violet adds a pop of color and charm to your indoor garden.",
+    "Price": 189.99,
+    "PictureUrl": "images/image15.png",
+    "PlantTypeId": 3,
+    "PlantCategoryId": 2
+  },
+  {
+    "Name": "Calathea Medallion",
+    "Description": "A stunning choice with patterned leaves, the Calathea Medallion adds a touch of artistry to your plant collection.",
+    "Price": 199.99,
+    "PictureUrl": "images/image16.png",
+    "PlantTypeId": 3,
+    "PlantCategoryId": 2
+  },
+  {
+    "Name": "Lucky Bamboo",
+    "Description": "A symbol of good fortune, Lucky Bamboo adds a touch of Asian-inspired elegance with its sleek, upright stems.",
+    "Price": 150,
+    "PictureUrl": "images/image17.png",
+    "PlantTypeId": 1,
+    "PlantCategoryId": 1
+  },
+  {
+    "Name": "Boston Fern",
+    "Description": "A classic choice with delicate, feathery fronds, the Boston Fern brings a refreshing and airy feel to your space.",
+    "Price": 180,
+    "PictureUrl": "images/image18.png",
+    "PlantTypeId": 3,
+    "PlantCategoryId": 1
+  }
+]

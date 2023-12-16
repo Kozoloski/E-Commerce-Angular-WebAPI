@@ -4,14 +4,95 @@
     "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Helpers\\PlantShop.Helpers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Helpers\\PlantShop.Helpers.csproj": {
+    "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DataAccess\\PlantShop.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Helpers\\PlantShop.Helpers.csproj",
-        "projectName": "PlantShop.Helpers",
-        "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Helpers\\PlantShop.Helpers.csproj",
+        "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DataAccess\\PlantShop.DataAccess.csproj",
+        "projectName": "PlantShop.DataAccess",
+        "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DataAccess\\PlantShop.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Tomo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Helpers\\obj\\",
+        "outputPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tomo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Domain\\PlantShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Domain\\PlantShop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Domain\\PlantShop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Domain\\PlantShop.Domain.csproj",
+        "projectName": "PlantShop.Domain",
+        "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Domain\\PlantShop.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tomo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tomo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,6 +140,232 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DTOs\\PlantShop.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DTOs\\PlantShop.DTOs.csproj",
+        "projectName": "PlantShop.DTOs",
+        "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DTOs\\PlantShop.DTOs.csproj",
+        "packagesPath": "C:\\Users\\Tomo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tomo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Helpers\\PlantShop.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Helpers\\PlantShop.Helpers.csproj",
+        "projectName": "PlantShop.Helpers",
+        "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Helpers\\PlantShop.Helpers.csproj",
+        "packagesPath": "C:\\Users\\Tomo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tomo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DataAccess\\PlantShop.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DataAccess\\PlantShop.DataAccess.csproj"
+              },
+              "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Domain\\PlantShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Domain\\PlantShop.Domain.csproj"
+              },
+              "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DTOs\\PlantShop.DTOs.csproj": {
+                "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DTOs\\PlantShop.DTOs.csproj"
+              },
+              "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Shared\\PlantShop.Shared.csproj": {
+                "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Shared\\PlantShop.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Shared\\PlantShop.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Shared\\PlantShop.Shared.csproj",
+        "projectName": "PlantShop.Shared",
+        "projectPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Shared\\PlantShop.Shared.csproj",
+        "packagesPath": "C:\\Users\\Tomo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tomo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             }
           },
           "imports": [

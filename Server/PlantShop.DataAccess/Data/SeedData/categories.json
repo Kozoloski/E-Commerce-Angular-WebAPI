@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "Name": "Succulents"
+  },
+  {
+    "id": 2,
+    "Name": "Cactus Plants"
+  },
+  {
+    "id": 3,
+    "Name": "Flowering Plants"
+  },
+  {
+    "id": 4,
+    "Name": "Tree Type Plants"
+  },
+  {
+    "id": 5,
+    "Name": "Hanging Plants"
+  },
+  {
+    "id": 6,
+    "Name": "Foliage Plants"
+  }
+]

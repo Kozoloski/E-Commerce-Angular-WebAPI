@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture1.png",
+      "PackagePath": "staticwebassets\\images\\picture1.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture10.png",
+      "PackagePath": "staticwebassets\\images\\picture10.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture11.png",
+      "PackagePath": "staticwebassets\\images\\picture11.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture12.png",
+      "PackagePath": "staticwebassets\\images\\picture12.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture13.png",
+      "PackagePath": "staticwebassets\\images\\picture13.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture14.png",
+      "PackagePath": "staticwebassets\\images\\picture14.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture15.png",
+      "PackagePath": "staticwebassets\\images\\picture15.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture16.png",
+      "PackagePath": "staticwebassets\\images\\picture16.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture17.png",
+      "PackagePath": "staticwebassets\\images\\picture17.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture18.png",
+      "PackagePath": "staticwebassets\\images\\picture18.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture2.png",
+      "PackagePath": "staticwebassets\\images\\picture2.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture3.png",
+      "PackagePath": "staticwebassets\\images\\picture3.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture4.png",
+      "PackagePath": "staticwebassets\\images\\picture4.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture5.png",
+      "PackagePath": "staticwebassets\\images\\picture5.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture6.png",
+      "PackagePath": "staticwebassets\\images\\picture6.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture7.png",
+      "PackagePath": "staticwebassets\\images\\picture7.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture8.png",
+      "PackagePath": "staticwebassets\\images\\picture8.png"
+    },
+    {
+      "Id": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture9.png",
+      "PackagePath": "staticwebassets\\images\\picture9.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PlantShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.PlantShop.props",
+      "PackagePath": "build\\PlantShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.PlantShop.props",
+      "PackagePath": "buildMultiTargeting\\PlantShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.PlantShop.props",
+      "PackagePath": "buildTransitive\\PlantShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
