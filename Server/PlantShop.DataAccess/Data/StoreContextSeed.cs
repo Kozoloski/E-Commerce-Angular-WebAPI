@@ -45,7 +45,7 @@ namespace PlantShop.DataAccess.Data
                 catch (Exception ex)
                 {
                     Console.WriteLine($"An error occurred during seeding plants: {ex.Message}");
-                    // Log additional details if needed
+                  
                 }
             }
         }
