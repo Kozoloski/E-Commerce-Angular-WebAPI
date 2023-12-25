@@ -1,4 +1,4 @@
-import { HttpClient } from '@angular/common/http';
+import { HttpClient, HttpParams } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Pagination } from '../shared/models/pagination';
 import { Plant } from '../shared/models/plant';
@@ -13,20 +13,22 @@ export class ShopService {
 
   constructor(private http: HttpClient) { }
 
-  getPlants() {
-    return this.http.get<Pagination<Plant[]>>(this.baseUrl + 'plants?pageSize=50');
+  getPlants(categoryId?: number, typeId?: number) {
+    let params = new HttpParams();
+
+    if(categoryId) params = params.append('categoryId', categoryId);
+    if(typeId) params = params.append('typeId', typeId);
+
+    return this.http.get<Pagination<Plant[]>>(this.baseUrl + 'plants', {params});
   }
 
-  getPlant(id: number) {
-    return this.http.get<Plant>(this.baseUrl + 'products/'+ id);
-  }
 
   getCategories() {
-    return this.http.get<Category[]>(this.baseUrl + 'products/brands');
+    return this.http.get<Category[]>(this.baseUrl + 'plants/categories');
   }
 
   getTypes() {
-    return this.http.get<Type[]>(this.baseUrl + 'products/types');
+    return this.http.get<Type[]>(this.baseUrl + 'plants/types');
   }
 }
 
