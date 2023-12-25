@@ -3,6 +3,7 @@ import { Plant } from '../shared/models/plant';
 import { ShopService } from './shop.service';
 import { Category } from '../shared/models/category';
 import { Type } from '../shared/models/type';
+import { ShopParams } from '../shared/models/shopParams';
 
 @Component({
   selector: 'app-shop',
@@ -13,14 +14,13 @@ export class ShopComponent implements OnInit {
   plants: Plant[] = [];
   categories: Category[] = [];
   types: Type[] = [];
-  categoryIdSelected = 0;
-  typeIdSelected = 0;
-  sortSelected = 'name';
+  shopParams = new ShopParams();
   sortOptions = [
     {name: 'Alphabetical', value: 'name'},
     {name: 'Price: Low to high', value: 'priceAsc'},
     {name: 'Price: High to low', value: 'priceDesc'},
-  ]
+  ];
+  totalCount = 0;
 
   constructor(private shopService: ShopService) {}
   
@@ -32,8 +32,13 @@ export class ShopComponent implements OnInit {
   }
 
   getPlants() {
-    this.shopService.getPlants(this.categoryIdSelected, this.typeIdSelected, this.sortSelected).subscribe({
-      next: response => this.plants = response.data,
+    this.shopService.getPlants(this.shopParams).subscribe({
+      next: response => {
+        this.plants = response.data
+        this.shopParams.pageNumber = response.pageIndex;
+        this.shopParams.pageSize = response.pageSize;
+        this.totalCount = response.count;
+      },
       error: error => console.log(error)     
     })
   }
@@ -53,18 +58,25 @@ export class ShopComponent implements OnInit {
   }
 
 onCategorySelected(categoryId: number) {
-  this.categoryIdSelected = categoryId;
+  this.shopParams.categoryId = categoryId;
   this.getPlants();
 }
 
 onTypeSelected(typeId: number) {
-  this.typeIdSelected = typeId;
+  this.shopParams.typeId = typeId;
   this.getPlants();
 }
 
 onSortSelected(event: any) {
-  this.sortSelected = event.target.value;
+  this.shopParams.sort = event.target.value;
   this.getPlants();
+}
+
+onPageChanged(event: any) {
+  if(this.shopParams.pageNumber !== event.page) {
+    this.shopParams.pageNumber = event.page;
+    this.getPlants();
+  }
 }
 
 }
