@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 import { Plant } from '../shared/models/plant';
 import { ShopService } from './shop.service';
 import { Category } from '../shared/models/category';
@@ -11,6 +11,7 @@ import { ShopParams } from '../shared/models/shopParams';
   styleUrls: ['./shop.component.scss']
 })
 export class ShopComponent implements OnInit {
+  @ViewChild('search') searchTerm?: ElementRef;
   plants: Plant[] = [];
   categories: Category[] = [];
   types: Type[] = [];
@@ -59,11 +60,13 @@ export class ShopComponent implements OnInit {
 
 onCategorySelected(categoryId: number) {
   this.shopParams.categoryId = categoryId;
+  this.shopParams.pageNumber = 1;
   this.getPlants();
 }
 
 onTypeSelected(typeId: number) {
   this.shopParams.typeId = typeId;
+  this.shopParams.pageNumber = 1;
   this.getPlants();
 }
 
@@ -73,10 +76,22 @@ onSortSelected(event: any) {
 }
 
 onPageChanged(event: any) {
-  if(this.shopParams.pageNumber !== event.page) {
-    this.shopParams.pageNumber = event.page;
+  if(this.shopParams.pageNumber !== event) {
+    this.shopParams.pageNumber = event;
     this.getPlants();
   }
+}
+
+onSearch() {
+  this.shopParams.search = this.searchTerm?.nativeElement.value;
+  this.shopParams.pageNumber = 1;
+  this.getPlants();
+}
+
+onReset() {
+  if(this.searchTerm) this.searchTerm.nativeElement.value = '';
+  this.shopParams = new ShopParams();
+  this.getPlants();
 }
 
 }
