@@ -27,6 +27,10 @@ export class ShopService {
     return this.http.get<Pagination<Plant[]>>(this.baseUrl + 'plants', {params});
   }
 
+  getPlant(id: number) {
+    return this.http.get<Plant>(this.baseUrl + 'plants/' + id);
+  }
+
 
   getCategories() {
     return this.http.get<Category[]>(this.baseUrl + 'plants/categories');
