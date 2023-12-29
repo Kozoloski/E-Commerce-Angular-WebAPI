@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9XWKudBbCCbm2heRbXZ6e2l4o+UPnK9xPzpA/rADVA8=",
+  "Hash": "I6jznpuE5alaF3i7wyeXzPaR/FTsBG0qc//Dg5r3FY4=",
   "Source": "PlantShop",
   "BasePath": "_content/PlantShop",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture1.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image1.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture1.png",
+      "RelativePath": "images/image1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,15 +31,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture1.png"
+      "OriginalItemSpec": "wwwroot\\images\\image1.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture10.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image10.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture10.png",
+      "RelativePath": "images/image10.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,15 +48,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture10.png"
+      "OriginalItemSpec": "wwwroot\\images\\image10.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture11.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image11.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture11.png",
+      "RelativePath": "images/image11.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture11.png"
+      "OriginalItemSpec": "wwwroot\\images\\image11.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture12.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image12.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture12.png",
+      "RelativePath": "images/image12.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture12.png"
+      "OriginalItemSpec": "wwwroot\\images\\image12.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture13.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image13.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture13.png",
+      "RelativePath": "images/image13.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture13.png"
+      "OriginalItemSpec": "wwwroot\\images\\image13.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture14.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image14.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture14.png",
+      "RelativePath": "images/image14.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture14.png"
+      "OriginalItemSpec": "wwwroot\\images\\image14.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture15.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image15.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture15.png",
+      "RelativePath": "images/image15.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture15.png"
+      "OriginalItemSpec": "wwwroot\\images\\image15.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture16.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image16.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture16.png",
+      "RelativePath": "images/image16.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture16.png"
+      "OriginalItemSpec": "wwwroot\\images\\image16.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture17.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image17.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture17.png",
+      "RelativePath": "images/image17.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture17.png"
+      "OriginalItemSpec": "wwwroot\\images\\image17.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture18.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image18.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture18.png",
+      "RelativePath": "images/image18.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture18.png"
+      "OriginalItemSpec": "wwwroot\\images\\image18.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture2.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image2.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture2.png",
+      "RelativePath": "images/image2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture2.png"
+      "OriginalItemSpec": "wwwroot\\images\\image2.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture3.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image3.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture3.png",
+      "RelativePath": "images/image3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture3.png"
+      "OriginalItemSpec": "wwwroot\\images\\image3.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture4.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image4.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture4.png",
+      "RelativePath": "images/image4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture4.png"
+      "OriginalItemSpec": "wwwroot\\images\\image4.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture5.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image5.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture5.png",
+      "RelativePath": "images/image5.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture5.png"
+      "OriginalItemSpec": "wwwroot\\images\\image5.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture6.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image6.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture6.png",
+      "RelativePath": "images/image6.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture6.png"
+      "OriginalItemSpec": "wwwroot\\images\\image6.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture7.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image7.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture7.png",
+      "RelativePath": "images/image7.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture7.png"
+      "OriginalItemSpec": "wwwroot\\images\\image7.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture8.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image8.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture8.png",
+      "RelativePath": "images/image8.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture8.png"
+      "OriginalItemSpec": "wwwroot\\images\\image8.png"
     },
     {
-      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\picture9.png",
+      "Identity": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\images\\image9.png",
       "SourceId": "PlantShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\wwwroot\\",
       "BasePath": "_content/PlantShop",
-      "RelativePath": "images/picture9.png",
+      "RelativePath": "images/image9.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,7 +320,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\picture9.png"
+      "OriginalItemSpec": "wwwroot\\images\\image9.png"
     }
   ]
 }
