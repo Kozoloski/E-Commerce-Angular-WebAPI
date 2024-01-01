@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3MLlBxt+mfUOs2uzbo4PKiBiRUDUs8fN+nlnFIToiTtaqxDNayJMhYTqZ+iAWd/MOGlbzRtDlQevq1kdk45qzA==",
+  "dgSpecHash": "A99jwzRlLvmWMqBg3tL0o5FnrZz71h7IKkE8qr5PIKF2NACbL/ZuOn2YSDhHQSQQx+5vkH7v4zI23qm++Ea1TA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop\\PlantShop.csproj",
   "expectedPackageFiles": [
@@ -66,6 +66,8 @@
     "C:\\Users\\Tomo\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Tomo\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\Tomo\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Tomo\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Tomo\\.nuget\\packages\\stackexchange.redis\\2.7.10\\stackexchange.redis.2.7.10.nupkg.sha512",
     "C:\\Users\\Tomo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Tomo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Tomo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
@@ -79,6 +81,7 @@
     "C:\\Users\\Tomo\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
     "C:\\Users\\Tomo\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.21.0\\system.identitymodel.tokens.jwt.6.21.0.nupkg.sha512",
     "C:\\Users\\Tomo\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Tomo\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\Tomo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\Tomo\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
     "C:\\Users\\Tomo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

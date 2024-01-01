@@ -87,3 +87,5 @@ C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\Plant
 C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop\bin\Debug\net7.0\PlantShop.Shared.pdb
 C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop\bin\Debug\net7.0\PlantShop.Helpers.pdb
 C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop\bin\Debug\net7.0\PlantShop.DTOs.pdb
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop\bin\Debug\net7.0\StackExchange.Redis.dll
