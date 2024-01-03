@@ -13,7 +13,9 @@ namespace PlantShop.Helpers.Helpers
                 .ForMember(d => d.PlantCategory, o => o.MapFrom(s => s.PlantCategory.Name))
                 .ForMember(d => d.PlantType, o => o.MapFrom(s => s.PlantType.Name))
                 .ForMember(d => d.PictureUrl, o => o.MapFrom<PlantUrlResolver>());
-
+            CreateMap<Domain.Entities.Identity.Address, AddressDto>().ReverseMap();
+            CreateMap<CustomerBasketDto, CustomerBasket>();
+            CreateMap<BasketItemDto, BasketItem>();
 
         }
     }

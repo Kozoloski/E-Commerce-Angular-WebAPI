@@ -6,4 +6,8 @@
 	<Nullable>disable</Nullable>
   </PropertyGroup>
 
+	<ItemGroup>
+		<ProjectReference Include="..\PlantShop.Domain\PlantShop.Domain.csproj" />
+	</ItemGroup>
+
 </Project>

@@ -2,6 +2,9 @@ using Microsoft.EntityFrameworkCore;
 using PlantShop.DataAccess.Data;
 using PlantShop.Shared.Middleware;
 using PlantShop.Helpers.Extensions;
+using PlantShop.DataAccess.Identity;
+using Microsoft.AspNetCore.Identity;
+using PlantShop.Domain.Entities.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +12,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddApplicationServices(builder.Configuration);
+builder.Services.AddIdentityServices(builder.Configuration);
 builder.Services.AddSwaggerDocumentation();
 
 
@@ -38,11 +42,15 @@ app.MapControllers();
 using var scope = app.Services.CreateScope();
 var services = scope.ServiceProvider;
 var context = services.GetRequiredService<StoreContext>();
+var identityContext = services.GetRequiredService<AppIdentityDbContext>();
+var userManager = services.GetRequiredService<UserManager<AppUser>>();
 var logger = services.GetRequiredService<ILogger<Program>>();
 try
 {
     await context.Database.MigrateAsync();
+    await identityContext.Database.MigrateAsync();
     await StoreContextSeed.SeedAsync(context);
+    await AppIdentityDbContextSeed.SeedUsersAsync(userManager);
 
 }
 catch (Exception ex)

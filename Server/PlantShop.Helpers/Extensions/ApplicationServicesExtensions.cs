@@ -7,6 +7,8 @@ using PlantShop.DataAccess.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using PlantShop.Shared.Errors;
 using StackExchange.Redis;
+using PlantShop.Services.Interfaces;
+using PlantShop.Services.Implementations;
 
 namespace PlantShop.Helpers.Extensions
 {
@@ -25,6 +27,7 @@ namespace PlantShop.Helpers.Extensions
             });
 
             services.AddScoped<IBasketRepository, BasketRepository>();
+            services.AddScoped<ITokenService, TokenService>();
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.Configure<ApiBehaviorOptions>(options =>
