@@ -1,4 +1,5 @@
 ﻿using PlantShop.Domain.Entities;
+using PlantShop.Domain.Entities.OrderAggregate;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -48,6 +49,15 @@ namespace PlantShop.DataAccess.Data
                   
                 }
             }
+
+            if (!context.DeliveryMethods.Any())
+            {
+                var deliveryData = File.ReadAllText("C:\\Users\\Tomo\\Desktop\\Angular-WebAPI-Repo\\E-Commerce-Angular-WebAPI\\Server\\PlantShop.DataAccess\\Data\\SeedData\\delivery.json");
+                var methods = JsonSerializer.Deserialize<List<DeliveryMethod>>(deliveryData);
+                context.DeliveryMethods.AddRange(methods);
+            }
+
+            if (context.ChangeTracker.HasChanges()) await context.SaveChangesAsync();
         }
     }
 }
