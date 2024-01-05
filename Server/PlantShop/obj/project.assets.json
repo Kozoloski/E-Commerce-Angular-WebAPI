@@ -1943,6 +1943,9 @@
       "PlantShop.DTOs/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "PlantShop.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/PlantShop.DTOs.dll": {}
         },
@@ -1977,6 +1980,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "PlantShop.DataAccess": "1.0.0",
           "PlantShop.Domain": "1.0.0"
         },
         "compile": {

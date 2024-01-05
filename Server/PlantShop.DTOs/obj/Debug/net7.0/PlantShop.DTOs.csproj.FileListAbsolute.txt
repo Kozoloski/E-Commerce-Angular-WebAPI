@@ -10,3 +10,6 @@ C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\Plant
 C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DTOs\obj\Debug\net7.0\refint\PlantShop.DTOs.dll
 C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DTOs\obj\Debug\net7.0\PlantShop.DTOs.pdb
 C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DTOs\obj\Debug\net7.0\ref\PlantShop.DTOs.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DTOs\bin\Debug\net7.0\PlantShop.Domain.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DTOs\bin\Debug\net7.0\PlantShop.Domain.pdb
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.DTOs\obj\Debug\net7.0\PlantShop.DTOs.csproj.CopyComplete

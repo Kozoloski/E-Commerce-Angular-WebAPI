@@ -13,3 +13,5 @@ C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\Plant
 C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\bin\Debug\net7.0\PlantShop.Domain.dll
 C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\bin\Debug\net7.0\PlantShop.Domain.pdb
 C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\obj\Debug\net7.0\PlantShop.Services.csproj.CopyComplete
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\bin\Debug\net7.0\PlantShop.DataAccess.dll
+C:\Users\Tomo\Desktop\Angular-WebAPI-Repo\E-Commerce-Angular-WebAPI\Server\PlantShop.Services\bin\Debug\net7.0\PlantShop.DataAccess.pdb

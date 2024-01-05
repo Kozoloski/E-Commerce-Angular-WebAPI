@@ -7,6 +7,7 @@
   </PropertyGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\PlantShop.DataAccess\PlantShop.DataAccess.csproj" />
 		<ProjectReference Include="..\PlantShop.Domain\PlantShop.Domain.csproj" />
 	</ItemGroup>
 

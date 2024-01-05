@@ -976,12 +976,16 @@
         }
       },
       "PlantShop.DTOs/1.0.0": {
+        "dependencies": {
+          "PlantShop.Domain": "1.0.0"
+        },
         "runtime": {
           "PlantShop.DTOs.dll": {}
         }
       },
       "PlantShop.Services/1.0.0": {
         "dependencies": {
+          "PlantShop.DataAccess": "1.0.0",
           "PlantShop.Domain": "1.0.0"
         },
         "runtime": {
