@@ -5,7 +5,7 @@ Welcome to the PlantShop E-Commerce Website, where you can find your favorite pl
 
 This is an ongoing project where I contribute daily by adding new features and functionalities.
 
-This application is built using Angular for the front end and ASP.NET Core for the back end. The data is stored in the SQL Server database. 
+This application uses Angular for the Front-End and ASP.NET Core for the Back-End. The data is stored in the SQL Server database. 
 
 ## Getting Started
 
@@ -19,6 +19,7 @@ Make sure you have the following installed on your machine:
 - [Angular CLI](https://cli.angular.io/)
 - [.NET SDK](https://dotnet.microsoft.com/download)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- [Docker](https://docs.docker.com/get-docker/)
 
 ### Clone the Repository
 
@@ -26,6 +27,13 @@ Make sure you have the following installed on your machine:
 - Open the server side with Visual Studio
 - Open the client side with Visual Studio Code
 - You can find additional info about the Angular part in the readme file located in the client folder in this Repository
+
+### Docker and Redis Integration
+
+- Navigate to the project directory: cd E-Commerce-Angular-WebAPI
+- Start the Docker containers using Docker Compose: docker-compose up
+- This command will download the necessary Docker images, build the application containers, and start the services.
+- Redis Commander is accessible at [http://localhost:8081](http://localhost:8081) with the username `root` and password `secret`.
 
 ### Database Setup
 
